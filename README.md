@@ -51,6 +51,7 @@ PC1 : 192.168.3.2 255.255.255.224
 <img width="436" height="192" alt="image" src="https://github.com/user-attachments/assets/bb7458f7-c2b1-495c-9675-9ad84cb4ccfe" />
 
 ping request from PC2 on switch 1 to PC 3 & 4 on switch 2
+
 <img width="331" height="87" alt="image" src="https://github.com/user-attachments/assets/2dc29235-074a-4972-9d2d-d4f8bca40e58" />
 
 It didn't work since they are not on the same network, for communication to happen between them we would need a router for routing the IP addresses and enable communication. 
