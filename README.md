@@ -27,9 +27,11 @@ ping requests from the first switch pcs
 <img width="431" height="109" alt="ping PC2 to PC1" src="https://github.com/user-attachments/assets/b4f3055f-6511-4f2b-9584-a0d6e28aefff" />
 
 Configured IPs on PC 3 & 4 on switch 2
-PC 3
+
 PC3> ip 192.168.3.1/27
+
 Checking for duplicate address...
+
 PC1 : 192.168.3.1 255.255.255.224
 
 Successful ping from PC 3 to 4
@@ -40,9 +42,10 @@ This explains the partial broken connection. Because of the redundancy aused by 
 
 <img width="675" height="439" alt="image" src="https://github.com/user-attachments/assets/87c7ee83-4fbd-432f-bc02-533559dfb81e" />
 
-PC4
 PC4> ip 192.168.3.2/27
+
 Checking for duplicate address...
+
 PC1 : 192.168.3.2 255.255.255.224
 
 <img width="436" height="192" alt="image" src="https://github.com/user-attachments/assets/bb7458f7-c2b1-495c-9675-9ad84cb4ccfe" />
