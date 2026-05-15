@@ -1,6 +1,7 @@
 -Connected all devices on gns3 GUI. 
 
 <img width="675" height="439" alt="image" src="https://github.com/user-attachments/assets/c76ecbea-6853-479d-9b02-5bda7ec56e5a" />
+
 Switch 1
 PC1 - 192.168.2.1/27
 PC2 - 192.168.2.2/27
