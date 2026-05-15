@@ -32,6 +32,7 @@ PC4
 PC4> ip 192.168.3.2/27
 Checking for duplicate address...
 PC1 : 192.168.3.2 255.255.255.224
+
 <img width="436" height="192" alt="image" src="https://github.com/user-attachments/assets/bb7458f7-c2b1-495c-9675-9ad84cb4ccfe" />
 
 ping request from PC2 on switch 1 to PC 3 & 4 on switch 2
