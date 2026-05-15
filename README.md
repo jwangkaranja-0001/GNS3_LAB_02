@@ -58,16 +58,21 @@ It didn't work since they are not on the same network, for communication to happ
 ping requests from PC3 to PC1 & PC2
 
 Save configurations on all devices 
+
 PC1
+
 <img width="381" height="63" alt="image" src="https://github.com/user-attachments/assets/6efea966-5f82-4e9f-afe5-fde085990fa3" />
 
 PC2 
+
 <img width="350" height="65" alt="image" src="https://github.com/user-attachments/assets/0cf5574b-5d37-43fa-bb00-b21d26af6803" />
 
 PC3
+
 <img width="436" height="192" alt="image" src="https://github.com/user-attachments/assets/bd16fcc6-166e-47ce-90e5-6371aabcb2dd" />
 
 PC4
+
 <img width="346" height="60" alt="image" src="https://github.com/user-attachments/assets/3709f0e0-e5ef-4fb3-a882-6f1c7981f696" />
 
 
